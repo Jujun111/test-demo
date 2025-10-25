@@ -1,3 +1,4 @@
 logs/
 node_modules/
 logs/degbug.logs
+bin/backup.bin
